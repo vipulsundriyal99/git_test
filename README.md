@@ -1,3 +1,3 @@
 # git_test
 Hello Odin !!
-Hoooo - hoooo -haaaa - haaaa
+This is first repo readme file...
